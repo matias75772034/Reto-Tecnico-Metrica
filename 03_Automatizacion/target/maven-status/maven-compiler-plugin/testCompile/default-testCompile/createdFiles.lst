@@ -1,0 +1,8 @@
+com\reto\casino\pages\LoginPage.class
+com\reto\casino\utils\DriverFactory.class
+com\reto\casino\hooks\Hooks.class
+com\reto\casino\utils\ConfigReader.class
+com\reto\casino\pages\BasePage.class
+com\reto\casino\stepdefinitions\LoginStepDefinitions.class
+com\reto\casino\pages\HomePage.class
+com\reto\casino\runners\RunnerTest.class
